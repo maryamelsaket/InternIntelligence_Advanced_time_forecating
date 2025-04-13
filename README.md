@@ -30,6 +30,7 @@ This project focuses on identifying anomalies in sales data and forecasting futu
 
 ### to load a model
 click this kaggle link, you will find it in the output section ready if you wanna load it.
+[https://www.kaggle.com/code/mariamelsaket/sales-anomaly-detection-forecasting-with-prophet]
 
 ##📌 Dependencies
 - Python 3.8+
