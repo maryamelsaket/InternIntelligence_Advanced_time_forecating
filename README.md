@@ -1,4 +1,4 @@
-# InternIntelligence_Advanced_time_forecating_with_prophet
+# Advanced_time_forecating_with_prophet
 This project focuses on identifying anomalies in sales data and forecasting future trends using two time-series models: **Prophet** and **ARIMA**. It combines statistical analysis, visualizations, and model performance tracking for better insight into sales patterns.
 
 ## 📁 Project Overview
